@@ -1,0 +1,5 @@
+# Copy the DIRCOLORS from the web
+wget https://github.com/seebi/dircolors-solarized/archive/master.zip
+
+Copy one of the dircolors file to ~/.dircolors
+

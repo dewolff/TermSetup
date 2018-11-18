@@ -1,0 +1,1 @@
+alias ps='ps axu'
