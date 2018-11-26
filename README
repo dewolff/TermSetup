@@ -3,3 +3,5 @@ wget https://github.com/seebi/dircolors-solarized/archive/master.zip
 
 Copy one of the dircolors file to ~/.dircolors
 
+# One liner to get a nice git prompt in bash
+git clone https://github.com/arialdomartini/oh-my-git.git ~/.oh-my-git && echo source ~/.oh-my-git/prompt.sh >> ~/.bashrc
